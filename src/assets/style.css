@@ -1,0 +1,40 @@
+/*@import url('primevue/resources/themes/soho-light/theme.css'); /* Choose the theme you prefer */
+@import url('primevue/resources/primevue.min.css');
+@import url('primeflex/primeflex.css');
+
+@import 'primeicons/primeicons.css';
+
+.p-list-unstyled {
+    list-style: none;
+    padding: 0;
+    text-align: left;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.common-row-gap {
+    margin-bottom: 20px;
+}
+
+.common-row-gap label {
+    margin-bottom: 5px;
+    font-weight: 400;
+}
+
+.p-sidebar-link {
+    font-size: 16px;
+}
+
+.p-sidebar-link i {
+    margin-right: 10px;
+}
+
+h2 {
+    text-decoration: underline;
+    text-transform: uppercase;
+    margin: 20px 0 40px;
+}
